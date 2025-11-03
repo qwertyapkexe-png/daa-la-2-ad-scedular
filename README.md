@@ -1,3 +1,13 @@
+# 🖥️ Online Ad Slot Allocation
+## 📘 Project Title
+**Online Ad Slot Allocation**
+
+**Team Members:**
+- Purva Gattani (Roll No. 34, A6)  
+- Jiya Vanjani (Roll No. 26, A6)  
+- Diyansh Wasnik (Roll No. 23, A6)
+
+**GitHub Repository:** (https://github.com/qwertyapkexe-png/daa-la-2.git)  
 # Ad Slot Allocation (Greedy, Brute-force, DP)
 
 This project demonstrates a hybrid approach for online ad slot allocation using:
@@ -26,14 +36,7 @@ Notes:
 - DP (Weighted Interval Scheduling) returns the best non-overlapping set but does not enforce a global time capacity; use brute-force to get exact solutions with capacity.
 
 This implementation is intentionally small and easy to extend.
-# 🖥️ Online Ad Slot Allocation
 
-**Team Members:**
-- Purva Gattani (Roll No. 34, A6)  
-- Jiya Vanjani (Roll No. 26, A6)  
-- Diyansh Wasnik (Roll No. 23, A6)
-
-**GitHub Repository:** (https://github.com/qwertyapkexe-png/daa-la-2.git)  
 
 ---
 
@@ -184,4 +187,5 @@ Allocates ad slots using the selected method.
 
 **Total Profit:** 120  
 **Total Time:** 4  
+
 
