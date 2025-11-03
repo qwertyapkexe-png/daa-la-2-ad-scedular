@@ -1,0 +1,8 @@
+{
+  "name": "ad-slot-allocation",
+  "version": "1.0.0",
+  "description": "Node files kept for reference. Active server: Python/Flask (server.py)",
+  "private": true,
+  "author": "DAA Project",
+  "license": "MIT"
+}
